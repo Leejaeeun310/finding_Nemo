@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 include ':app'
 
 def flutterProjectRoot = rootProject.projectDir.parentFile.toPath()
@@ -13,3 +14,6 @@ plugins.each { name, path ->
     include ":$name"
     project(":$name").projectDir = pluginDirectory
 }
+=======
+rootProject.name = 'flutter_local_notifications'
+>>>>>>> 027a23d8b778421eb138011d739bcf00a2a3bba4

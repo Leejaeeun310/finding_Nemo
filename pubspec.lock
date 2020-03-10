@@ -36,6 +36,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.1.2"
+<<<<<<< HEAD
   cloud_firestore:
     dependency: "direct main"
     description:
@@ -43,6 +44,8 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.11.0+2"
+=======
+>>>>>>> 027a23d8b778421eb138011d739bcf00a2a3bba4
   collection:
     dependency: transitive
     description:
@@ -64,6 +67,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.3"
+<<<<<<< HEAD
   cupertino_icons:
     dependency: "direct main"
     description:
@@ -85,11 +89,14 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.4.0+9"
+=======
+>>>>>>> 027a23d8b778421eb138011d739bcf00a2a3bba4
   flutter:
     dependency: "direct main"
     description: flutter
     source: sdk
     version: "0.0.0"
+<<<<<<< HEAD
   flutter_datetime_picker:
     dependency: "direct main"
     description:
@@ -97,11 +104,14 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.2.5"
+=======
+>>>>>>> 027a23d8b778421eb138011d739bcf00a2a3bba4
   flutter_test:
     dependency: "direct dev"
     description: flutter
     source: sdk
     version: "0.0.0"
+<<<<<<< HEAD
   google_sign_in:
     dependency: "direct main"
     description:
@@ -109,6 +119,8 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "4.0.11"
+=======
+>>>>>>> 027a23d8b778421eb138011d739bcf00a2a3bba4
   image:
     dependency: transitive
     description:
@@ -116,6 +128,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.4"
+<<<<<<< HEAD
   image_picker:
     dependency: "direct main"
     description:
@@ -130,6 +143,8 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.15.8"
+=======
+>>>>>>> 027a23d8b778421eb138011d739bcf00a2a3bba4
   matcher:
     dependency: transitive
     description:
@@ -138,12 +153,26 @@ packages:
     source: hosted
     version: "0.12.5"
   meta:
+<<<<<<< HEAD
     dependency: transitive
+=======
+    dependency: "direct main"
+>>>>>>> 027a23d8b778421eb138011d739bcf00a2a3bba4
     description:
       name: meta
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.1.7"
+<<<<<<< HEAD
+=======
+  mockito:
+    dependency: "direct dev"
+    description:
+      name: mockito
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "4.1.1"
+>>>>>>> 027a23d8b778421eb138011d739bcf00a2a3bba4
   path:
     dependency: transitive
     description:
@@ -165,6 +194,16 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.4.0"
+<<<<<<< HEAD
+=======
+  platform:
+    dependency: "direct main"
+    description:
+      name: platform
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.2.1"
+>>>>>>> 027a23d8b778421eb138011d739bcf00a2a3bba4
   quiver:
     dependency: transitive
     description:
@@ -172,6 +211,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.5"
+<<<<<<< HEAD
   shrine_images:
     dependency: "direct main"
     description:
@@ -179,6 +219,8 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.1.1"
+=======
+>>>>>>> 027a23d8b778421eb138011d739bcf00a2a3bba4
   sky_engine:
     dependency: transitive
     description: flutter

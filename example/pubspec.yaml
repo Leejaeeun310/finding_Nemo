@@ -1,0 +1,62 @@
+name: flutter_local_notifications_example
+description: Demonstrates how to use the flutter_local_notifications plugin.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.0
+  http: ^0.12.0
+  path_provider: ^0.4.1
+  shared_preferences: ^0.4.3
+  rxdart: ^0.19.0
+  intl: ^0.15.6
+  cloud_firestore: ^0.11.0+1
+  shrine_images: 1.1.1
+  google_sign_in: ^4.0.11
+  firebase_auth: 0.11.1+3
+  image_picker:
+  css_colors:
+  firebase_storage:
+  date_format: ^1.0.6
+  custom_radio: ^0.1.2
+  custom_radio_button :
+  firebase_ml_vision :
+  splashscreen: ^1.2.0
+  url_launcher:
+  camera: ^0.5.6+1
+  firebase_core: ^0.4.0
+  gender_selector:
+  charts_flutter: ^0.8.1
+
+  flutter_local_notifications:
+    path: ../
+
+#dev_dependencies:
+#  e2e: ^0.2.1
+#  flutter_test:
+#    sdk: flutter
+#  flutter_driver:
+#    sdk: flutter
+#  test: any
+#  path: ^1.6.2
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/1.png
+    - assets/type1.png
+    - assets/type2.png
+    - assets/type3.png
+    - assets/type4.png
+    - assets/type5.png
+    - assets/type6.png
+    - assets/type7.png
+    - assets/bar-chart.png
+

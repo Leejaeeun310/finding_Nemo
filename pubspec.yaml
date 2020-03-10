@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: sw_app
 description: A new Flutter application.
 
@@ -15,10 +16,18 @@ version: 1.0.0+1
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
+=======
+name: flutter_local_notifications
+description: A cross platform plugin for displaying and scheduling local notifications for Flutter applications with the ability to customise for each platform.
+version: 0.8.4
+author: Michael Bui <michael@dexterx.dev>
+homepage: https://github.com/MaikuB/flutter_local_notifications
+>>>>>>> 027a23d8b778421eb138011d739bcf00a2a3bba4
 
 dependencies:
   flutter:
     sdk: flutter
+<<<<<<< HEAD
   image_picker :
   cloud_firestore: ^0.11.0+1
   shrine_images: 1.1.1
@@ -29,10 +38,15 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
+=======
+  meta: ^1.1.6
+  platform: ^2.2.0
+>>>>>>> 027a23d8b778421eb138011d739bcf00a2a3bba4
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+<<<<<<< HEAD
 
 
 # For information on the generic Dart part of this file, see the
@@ -47,3 +61,19 @@ flutter:
   assets:
     - assets/slelogo.png
     - assets/sle_logo.png
+=======
+  mockito: ^4.1.0
+
+
+# The following section is specific to Flutter.
+flutter:
+  plugin:
+    androidPackage: com.dexterous.flutterlocalnotifications
+    pluginClass: FlutterLocalNotificationsPlugin
+
+
+environment:
+  sdk: ">=2.0.0-dev.28.0 <3.0.0"
+  flutter: ">=1.5.0 <2.0.0"
+
+>>>>>>> 027a23d8b778421eb138011d739bcf00a2a3bba4

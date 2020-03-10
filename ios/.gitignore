@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.mode1v3
 *.mode2v3
 *.moved-aside
@@ -29,3 +30,36 @@ Runner/GeneratedPluginRegistrant.*
 !default.mode2v3
 !default.pbxuser
 !default.perspectivev3
+=======
+.idea/
+.vagrant/
+.sconsign.dblite
+.svn/
+
+.DS_Store
+*.swp
+profile
+
+DerivedData/
+build/
+
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+!default.pbxuser
+!default.mode1v3
+!default.mode2v3
+!default.perspectivev3
+
+xcuserdata
+
+*.moved-aside
+
+*.pyc
+*sync/
+Icon?
+.tags*
+
+>>>>>>> 027a23d8b778421eb138011d739bcf00a2a3bba4
